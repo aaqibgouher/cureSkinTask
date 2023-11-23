@@ -10,11 +10,11 @@
 
 ## Output
 ### 1. Travelling Seating Arrangement
-![Project Logo](./Outputs/traverllingSeatingArrangementOutput.png)
+![Project Logo](./Outputs/traverlling_seating_arrangement_output.png)
 
 
 ### 2. Convert Object To Array
-![Project Logo](Outputs/convertObjToArrOutput.png)
+![Project Logo](Outputs/convert_obj_to_arr_output.png)
 
 ### 3. Convert Array To Object
-![Project Logo](Outputs/convertArrToObjOutput.png)
+![Project Logo](Outputs/convert_arr_to_obj_output.png)
