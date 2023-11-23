@@ -14,7 +14,7 @@
 
 
 ### 2. Convert Object To Array
-![Project Logo](./Outputs/convertObjToArrOutput.png)
+![Project Logo](Outputs/convertObjToArrOutput.png)
 
 ### 3. Convert Array To Object
-![Project Logo](./Outputs/convertArrToObjOutput.png)
+![Project Logo](Outputs/convertArrToObjOutput.png)
